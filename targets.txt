@@ -1,0 +1,4 @@
+https://example.com
+https://httpbin.org/status/404
+https://httpbin.org/redirect/3
+https://nonexistent.invalid
